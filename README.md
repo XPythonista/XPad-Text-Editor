@@ -3,4 +3,4 @@ XPad text editor is a notepad based text editor but it has few more features the
 I have created this in python used two modules: a. CXFreeze b.Tkinter
 NOTE:
 This application can only run on 32-bit windows.
-If you want this app for 64 bit windows or mac os follow the Instruction.txt file.
+XPad Text Editor 2022.0.0
